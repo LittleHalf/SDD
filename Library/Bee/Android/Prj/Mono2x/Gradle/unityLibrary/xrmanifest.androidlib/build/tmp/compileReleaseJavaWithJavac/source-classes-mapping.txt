@@ -1,2 +1,0 @@
-com/UnityTechnologies/XR/Manifest/BuildConfig.java
- com.UnityTechnologies.XR.Manifest.BuildConfig

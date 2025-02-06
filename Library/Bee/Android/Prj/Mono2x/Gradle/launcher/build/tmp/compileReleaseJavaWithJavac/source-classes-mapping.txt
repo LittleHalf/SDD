@@ -1,2 +1,0 @@
-com/DefaultCompany/CAMSverseTest/BuildConfig.java
- com.DefaultCompany.CAMSverseTest.BuildConfig
